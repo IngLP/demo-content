@@ -1,0 +1,14 @@
+# image
+![graph](img.png)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis malesuada leo. Aenean nec lacus ligula. Donec malesuada dolor nunc, eu viverra ante tempus a. Mauris lobortis risus non nisl cursus aliquam. Praesent non efficitur urna. Morbi in magna vitae lectus tristique semper eget nec elit. Vestibulum viverra tortor nec vestibulum consectetur. Pellentesque scelerisque dictum magna. Morbi lacinia pulvinar mi et tincidunt. Praesent eget quam neque.
+
+Nullam convallis ante id justo tempus dictum. Suspendisse laoreet felis magna, a suscipit nulla scelerisque tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec nec sapien sem. In sapien felis, dictum eu faucibus a, sollicitudin eu lorem. Nullam tincidunt diam eros, euismod semper sapien dapibus a. Integer nec risus nibh. Fusce a lacus eu metus dapibus ultrices.
+
+Aenean ut tortor a elit volutpat commodo. Cras congue dolor eu tellus elementum, id lobortis odio hendrerit. Suspendisse eget sodales eros, sit amet sagittis ex. Quisque rhoncus velit quis velit posuere lacinia. Vivamus auctor sodales purus, ut consectetur ipsum finibus sit amet. Cras consectetur tortor at venenatis rutrum. Etiam laoreet lacus eu urna cursus tempus.
+
+Nam mattis, est quis ornare vulputate, arcu massa blandit purus, sit amet fermentum nisi metus vel magna. Mauris purus lectus, euismod ut vestibulum quis, placerat at mi. Integer tempor nibh turpis, lobortis ullamcorper velit gravida suscipit. Vestibulum nec ex arcu. Pellentesque quis elit rhoncus, ornare magna non, auctor velit. Mauris porta facilisis imperdiet. Nam arcu elit, varius et vulputate at, pellentesque id mi. Pellentesque interdum nisl sit amet ipsum pharetra pellentesque. Fusce sit amet lacinia tortor. Duis pretium condimentum condimentum. Integer eget posuere leo. Vestibulum consectetur facilisis dui, vel consequat mi hendrerit a. Ut semper iaculis magna, sed fermentum velit sollicitudin sed. In vehicula tincidunt quam in iaculis.
+
+Nam aliquet mollis venenatis. Etiam semper mollis sodales. Sed dui tellus, efficitur nec quam ac, eleifend condimentum nulla. Etiam ligula neque, malesuada et leo ut, euismod euismod libero. Donec aliquam tincidunt consequat. Ut pharetra pretium tincidunt. Aenean accumsan elit quis faucibus pulvinar. Nam egestas pharetra dolor sed aliquam. Fusce mollis quam nec enim venenatis, vel consequat orci lobortis. Sed sem augue, fringilla sed velit et, iaculis porta arcu. Curabitur ut scelerisque massa. Nulla efficitur consequat hendrerit. Nunc rhoncus mollis mauris volutpat fermentum. Integer in lobortis nisl. Nullam velit nunc, consectetur ac odio sit amet, consectetur sagittis arcu.
+
+I passeggeri in genere sono di classe 3, poi di classe 1 e solo infine di classe 2.
